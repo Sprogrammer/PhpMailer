@@ -3,4 +3,6 @@ README PhpMailer
 
 Scopo del progetto
 ------------------
+
+
 Lo scopo di questo progetto è quello di creare una classe PHP utile per l' invio delle email con il linguaggio stetto.
