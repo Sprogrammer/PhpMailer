@@ -1,4 +1,6 @@
-<h1>README PhpMailer</h1>
+README PhpMailer
+================
 
-<h3>Scopo del progetto</h3>
-<p>Lo scopo di questo progetto è quello di creare una <b>classe PHP</b> utile per l' <b>invio delle email</b> con il linguaggio stetto.</p>
+Scopo del progetto
+------------------
+Lo scopo di questo progetto è quello di creare una classe PHP utile per l' invio delle email con il linguaggio stetto.
