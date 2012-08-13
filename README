@@ -3,6 +3,11 @@ README PhpMailer
 
 Scopo del progetto
 ------------------
+This is an H1
+=============
+
+This is an H2
+-------------
 
 <h2>Lolloso :F</h2>
 Lo scopo di questo progetto è quello di creare una classe PHP utile per l' invio delle email con il linguaggio stetto.
