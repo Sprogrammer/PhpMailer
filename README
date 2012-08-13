@@ -6,3 +6,8 @@ Scopo del progetto
 
 <h2>Lolloso :F</h2>
 Lo scopo di questo progetto è quello di creare una classe PHP utile per l' invio delle email con il linguaggio stetto.
+<ul class="category-list">
+  <li class="item">Category 1</li>
+  <li class="item">Category 2</li>
+  <li class="item">Category 3</li>
+</ul>
