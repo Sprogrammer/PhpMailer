@@ -7,6 +7,5 @@ PHPMailer **validerà** automaticamente le email del mittente e del destinatario
 
 ##Utilizzare PhpMailer
 Usare PhpMailer è semplicissimo, basterà creare un istanza dell' oggetto (oooo... che ho detto? tranquillo è semplicissimo) e usare il metodo send con i vari parametri per inviare l' email.
-'
- $obj1 = new phpMailer('explosivedynamicwork@gmail.com', 'cOZZY World', "Ahaahahah. Beh che vuoi? questo dovrebbe essere il messaggio e lo sto allungando parecchio almeno vedo se mi taglia le righe xD ...vediamo \n se gli\n fun \n zionano. :)",'carroburro19@libero.it');
-'
+
+ >$obj1 = new phpMailer('explosivedynamicwork@gmail.com', 'cOZZY World', "Ahaahahah. Beh che vuoi? questo dovrebbe essere il messaggio e lo sto allungando parecchio almeno vedo se mi taglia le righe xD ...vediamo \n se gli\n fun \n zionano. :)",'carroburro19@libero.it');
